@@ -8,6 +8,8 @@ RUN apt-get -qq update && \
     rm -rf /var/lib/apt/lists/* && \
     apt-add-repository non-free && \
     apt-get -qq update && \
+    apt-get -qq install -y p7zip-full p7zip-rar aria2 wget curl pv jq ffmpeg locales python3-lxml && \
+    
     
 RUN wget https://raw.githubusercontent.com/rocky572/magneto-python-aria-1/main/authorized_chats.txt
 RUN wget https://raw.githubusercontent.com/rocky572/magneto-python-aria-1/main/token.pickle
