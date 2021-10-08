@@ -19,12 +19,12 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "",
+        "value": "2080958386:AAHecoEetOTqDG9iz4CeX4NSmX9ajo2gRbI",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "",
+        "value": "1z_K2WUF2sHpnN1jTY1pIqPfUAeCUx72P",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "",
+        "value": "1997340590",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -49,12 +49,12 @@
       },
       "IS_TEAM_DRIVE": {
         "description": "Set to 'True' if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.",
-        "value": "",
+        "value": "TRUE",
         "required": false
       },
       "USE_SERVICE_ACCOUNTS": {
         "description": "Whether to use service accounts or not. For this to work see 'Using service accounts' section below.",
-        "value": "",
+        "value": "TRUE",
         "required": false
       },
       "INDEX_URL": {
@@ -64,12 +64,12 @@
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "",
+        "value": "8216846",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "",
+        "value": "0e27ed5cb52bda430aaceb335f022073",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
@@ -84,17 +84,17 @@
       },
       "MEGA_EMAIL_ID": {
         "description": "Mega Email.",
-        "value": "",
+        "value": "xomniumx@gmail.com",
         "required": false
       },
       "MEGA_PASSWORD": {
         "description": "Mega Password.",
-        "value": "",
+        "value": "sxRr.TBL!:L9KD.",
         "required": false
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "",
+        "value": "f24fac0e-00fd-4afd-aec3-af5deecceb7c",
         "required": true
       }
     },
